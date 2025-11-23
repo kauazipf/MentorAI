@@ -249,9 +249,9 @@ Para esconder, adicione no `_layout.tsx`:
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por:
-**Kauã Fermino Zipf - RM: 558957**
-**Caetano Matos Penafiel - RM: 557984**
-**Victor Egidio Lira - RM: 556653** 
+ - **Kauã Fermino Zipf - RM: 558957**
+ - **Caetano Matos Penafiel - RM: 557984**
+ - **Victor Egidio Lira - RM: 556653** 
 
 ---
 
